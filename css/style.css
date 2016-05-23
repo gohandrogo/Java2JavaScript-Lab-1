@@ -24,7 +24,17 @@ a:hover, a:active {
 
     color: inherit;
 }
-
+.block{
+  height:20px;
+  width:20px;
+  /*background-color: #EC644B;*/
+  display: inline-block;
+  margin: 0px;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  margin-bottom: 2px;;
+  text-align: center;
+}
 .group:before,
 .group:after {
     content:"";
